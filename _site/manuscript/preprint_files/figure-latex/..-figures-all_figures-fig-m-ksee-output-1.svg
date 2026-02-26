@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="300.849914pt" height="119.460937pt" viewBox="0 0 300.849914 119.460937" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-02-25T13:38:12.049575</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 119.460937 
+L 300.849914 119.460937 
+L 300.849914 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 43.65 105.973281 
+L 146.646008 105.973281 
+L 146.646008 7.993828 
+L 43.65 7.993828 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 43.65 105.973281 
+L 43.65 7.993828 
+" clip-path="url(#pcd6f018118)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <!-- 0 -->
+      <g transform="translate(40.828672 117.283281) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-30" d="M 1683 4230 
+C 838 4230 230 3469 230 2067 
+C 243 691 800 -70 1613 -70 
+C 2528 -70 3059 710 3059 2125 
+C 3059 3450 2554 4230 1683 4230 
+z
+M 1645 3795 
+C 2234 3795 2490 3123 2490 2099 
+C 2490 1037 2214 365 1645 365 
+C 1133 365 800 979 800 2061 
+C 800 3194 1158 3795 1645 3795 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 139.854159 105.973281 
+L 139.854159 7.993828 
+" clip-path="url(#pcd6f018118)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <!-- $c_{SEE}$ -->
+      <g transform="translate(131.494159 117.283281) scale(0.11 -0.11)">
+       <defs>
+        <path id="MinionPro-It-63" d="M 2150 774 
+C 1978 595 1587 301 1261 301 
+C 986 301 813 538 813 992 
+C 813 1427 934 1862 1088 2144 
+C 1216 2381 1395 2573 1619 2573 
+C 1818 2573 1971 2483 2106 2298 
+C 2144 2240 2189 2227 2246 2259 
+C 2387 2336 2458 2458 2451 2554 
+C 2445 2714 2240 2874 1965 2874 
+C 1651 2874 1203 2630 947 2394 
+C 531 2022 282 1395 282 858 
+C 282 250 557 -77 966 -77 
+C 1344 -77 1856 179 2246 634 
+L 2150 774 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-It-53" d="M 243 1248 
+C 256 794 256 448 262 294 
+C 403 134 851 -96 1363 -96 
+C 2106 -96 2758 378 2758 1120 
+C 2758 1626 2458 1965 2016 2291 
+L 1824 2438 
+C 1491 2688 1229 2918 1229 3296 
+C 1229 3686 1498 4038 1946 4038 
+C 2490 4038 2662 3610 2714 3123 
+L 2899 3142 
+C 2906 3437 2893 3776 2912 4045 
+C 2867 4064 2758 4102 2637 4147 
+C 2458 4211 2240 4250 2029 4250 
+C 1254 4250 730 3770 730 3104 
+C 730 2573 1152 2221 1440 1990 
+L 1626 1850 
+C 2003 1555 2227 1306 2227 941 
+C 2227 435 1907 115 1446 115 
+C 749 115 480 781 416 1267 
+L 243 1248 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-It-45" d="M 826 4154 
+L 774 3981 
+C 1299 3936 1331 3904 1235 3392 
+L 723 768 
+C 627 250 576 218 51 173 
+L 13 0 
+L 3008 0 
+C 3104 198 3347 813 3418 986 
+L 3238 1050 
+C 3104 819 2957 582 2803 435 
+C 2624 269 2438 218 1958 218 
+C 1600 218 1408 230 1312 307 
+C 1222 384 1216 550 1286 922 
+L 1498 2042 
+L 2106 2042 
+C 2662 2042 2662 1997 2650 1542 
+L 2835 1542 
+L 3078 2758 
+L 2893 2758 
+C 2739 2336 2694 2291 2163 2291 
+L 1542 2291 
+L 1818 3674 
+C 1862 3917 1875 3936 2093 3936 
+L 2592 3936 
+C 3066 3936 3149 3872 3213 3725 
+C 3283 3597 3296 3405 3296 3162 
+L 3482 3174 
+C 3526 3552 3584 4038 3603 4154 
+L 826 4154 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MinionPro-It-63" transform="translate(0 0.09375)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(38.199997 -13.378125) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(70.959988 -13.378125) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(110.089984 -13.378125) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <path d="M 43.65 105.973281 
+L 146.646008 105.973281 
+" clip-path="url(#pcd6f018118)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <!-- 0 -->
+      <g transform="translate(34.507344 109.878281) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <path d="M 43.65 20.24126 
+L 146.646008 20.24126 
+" clip-path="url(#pcd6f018118)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <!-- $F_{SEE}^{QR-,data}$ -->
+      <g transform="translate(0 25.63126) scale(0.11 -0.11)">
+       <defs>
+        <path id="MinionPro-It-46" d="M 845 4154 
+L 800 3981 
+C 1312 3930 1338 3910 1229 3347 
+L 742 800 
+C 640 256 589 218 109 173 
+L 70 0 
+L 1754 0 
+L 1798 173 
+C 1216 218 1165 262 1267 800 
+L 1485 1971 
+L 2150 1971 
+C 2701 1971 2714 1920 2714 1453 
+L 2893 1453 
+L 3136 2682 
+L 2957 2682 
+C 2784 2266 2758 2221 2208 2221 
+L 1536 2221 
+L 1818 3686 
+C 1862 3904 1875 3936 2093 3936 
+L 2611 3936 
+C 3072 3936 3181 3872 3232 3712 
+C 3283 3584 3296 3366 3302 3162 
+L 3488 3174 
+C 3533 3546 3590 4038 3603 4154 
+L 845 4154 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-It-51" d="M 4243 -890 
+C 3827 -698 3290 -397 2822 -58 
+L 2739 0 
+C 3750 288 4454 1286 4454 2413 
+C 4454 3494 3776 4250 2752 4250 
+C 1414 4250 422 3059 422 1709 
+C 422 691 1043 -19 1978 -83 
+L 2067 -147 
+C 2822 -678 3245 -870 3437 -922 
+C 3597 -966 3923 -1024 4192 -1030 
+L 4243 -890 
+z
+M 1926 147 
+C 1338 275 1030 890 1030 1651 
+C 1030 2784 1709 4032 2701 4032 
+C 3533 4032 3846 3328 3846 2477 
+C 3846 1530 3354 371 2528 147 
+C 2477 186 2426 224 2374 256 
+L 1926 147 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-It-52" d="M 3744 109 
+C 3584 160 3456 218 3309 416 
+C 3174 595 3059 800 2912 1088 
+C 2765 1376 2598 1766 2528 1946 
+C 3040 2125 3520 2522 3520 3168 
+C 3520 3552 3360 3808 3136 3955 
+C 2918 4109 2579 4154 2234 4154 
+L 845 4154 
+L 800 3981 
+C 1312 3936 1338 3910 1235 3386 
+L 742 813 
+C 634 250 595 224 102 173 
+L 64 0 
+L 1670 0 
+L 1709 173 
+C 1190 218 1152 250 1261 813 
+L 1446 1818 
+L 1715 1818 
+C 1946 1818 2029 1766 2131 1523 
+C 2266 1197 2400 890 2566 576 
+C 2797 147 3014 -19 3622 -51 
+L 3686 -51 
+L 3744 109 
+z
+M 1485 2022 
+L 1786 3610 
+C 1818 3776 1850 3853 1907 3891 
+C 1965 3936 2067 3955 2195 3955 
+C 2662 3955 2950 3674 2950 3117 
+C 2950 2720 2758 2374 2470 2182 
+C 2285 2061 2061 2022 1786 2022 
+L 1485 2022 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-Subh-2212" d="M 3213 1414 
+L 3213 1696 
+L 301 1696 
+L 301 1414 
+L 3213 1414 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-Subh-2c" d="M 570 774 
+C 422 774 282 678 282 531 
+C 282 435 320 397 346 390 
+C 563 346 736 198 736 -26 
+C 736 -269 563 -442 275 -557 
+L 320 -691 
+C 691 -576 1094 -326 1094 128 
+C 1094 538 774 774 570 774 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-It-64" d="M 3008 717 
+C 2835 544 2630 403 2554 403 
+C 2509 403 2502 461 2528 608 
+C 2752 1856 3021 3098 3322 4378 
+C 3347 4506 3334 4557 3277 4557 
+C 3181 4557 2835 4390 2298 4333 
+L 2278 4173 
+L 2483 4173 
+C 2765 4173 2784 4147 2726 3853 
+L 2515 2803 
+C 2362 2867 2227 2874 2138 2874 
+C 1837 2874 1306 2643 1005 2381 
+C 538 1978 262 1293 262 691 
+C 262 179 467 -77 678 -77 
+C 858 -77 1062 26 1299 218 
+C 1523 390 1856 672 2144 1056 
+L 2157 1062 
+L 2042 518 
+C 1939 26 2029 -77 2157 -77 
+C 2342 -77 2758 166 3098 570 
+L 3008 717 
+z
+M 992 339 
+C 883 339 794 486 794 813 
+C 794 1350 1050 2157 1478 2464 
+C 1587 2547 1728 2598 1920 2598 
+C 2112 2598 2342 2522 2438 2432 
+L 2234 1517 
+C 2022 1133 1318 339 992 339 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-It-61" d="M 2906 742 
+C 2714 557 2496 403 2438 403 
+C 2406 403 2387 461 2426 678 
+C 2573 1491 2765 2362 2867 2758 
+L 2854 2784 
+C 2784 2784 2694 2803 2611 2822 
+C 2470 2854 2342 2874 2214 2874 
+C 1811 2874 1344 2650 1018 2381 
+C 550 1990 250 1286 250 640 
+C 250 134 454 -77 621 -77 
+C 794 -77 1005 38 1216 211 
+C 1491 435 1798 742 2042 1094 
+L 2061 1094 
+L 1933 486 
+C 1837 19 1920 -77 2042 -77 
+C 2202 -77 2630 160 2982 589 
+L 2906 742 
+z
+M 954 333 
+C 858 333 781 467 781 755 
+C 781 1389 1037 2138 1472 2458 
+C 1587 2541 1760 2592 1933 2592 
+C 2099 2592 2266 2547 2355 2502 
+C 2317 2298 2221 1837 2144 1587 
+C 1933 1139 1203 333 954 333 
+z
+" transform="scale(0.015625)"/>
+        <path id="MinionPro-It-74" d="M 2163 2758 
+L 1414 2758 
+L 1645 3725 
+L 1581 3763 
+L 1101 3360 
+L 954 2758 
+L 563 2758 
+L 403 2560 
+L 422 2502 
+L 896 2502 
+L 525 768 
+C 378 109 506 -77 653 -77 
+C 992 -77 1478 352 1690 608 
+L 1594 742 
+C 1440 582 1133 371 1024 371 
+C 954 371 915 442 986 755 
+L 1357 2509 
+L 1997 2534 
+L 2163 2758 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MinionPro-It-46" transform="translate(0 0.360938)"/>
+       <use xlink:href="#MinionPro-It-51" transform="translate(59.167341 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-52" transform="translate(108.797336 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2212" transform="translate(161.74533 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2c" transform="translate(211.123318 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-64" transform="translate(236.981314 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(272.541305 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-74" transform="translate(306.841295 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(328.331292 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -22.092187) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <path d="M 43.65 81.478418 
+L 146.646008 81.478418 
+" clip-path="url(#pcd6f018118)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <!-- $F_{SEE}^{QR+,data}$ -->
+      <g transform="translate(0 86.868418) scale(0.11 -0.11)">
+       <defs>
+        <path id="MinionPro-Subh-2b" d="M 3213 1421 
+L 3213 1696 
+L 1920 1696 
+L 1920 2976 
+L 1594 2976 
+L 1594 1696 
+L 301 1696 
+L 301 1421 
+L 1594 1421 
+L 1594 0 
+L 1920 0 
+L 1920 1421 
+L 3213 1421 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MinionPro-It-46" transform="translate(0 0.360938)"/>
+       <use xlink:href="#MinionPro-It-51" transform="translate(59.167341 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-52" transform="translate(108.797336 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2b" transform="translate(161.74533 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2c" transform="translate(211.123318 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-64" transform="translate(236.981314 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(272.541305 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-74" transform="translate(306.841295 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(328.331292 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -22.092187) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_11">
+    <path d="M 43.65 105.973281 
+L 53.986469 104.98359 
+L 58.267975 103.993898 
+L 61.55329 103.004207 
+L 64.322939 102.014515 
+L 66.763048 101.024824 
+L 68.969076 100.035132 
+L 70.997727 99.045441 
+L 72.88595 98.05575 
+L 74.659408 97.066058 
+L 76.336786 96.076367 
+L 77.932191 95.086675 
+L 79.45658 94.096984 
+L 80.91867 93.107292 
+L 82.325527 92.117601 
+L 83.682974 91.127909 
+L 84.995878 90.138218 
+L 86.268355 89.148527 
+L 87.503926 88.158835 
+L 88.705625 87.169144 
+L 89.876096 86.179452 
+L 91.017653 85.189761 
+L 92.132339 84.200069 
+L 93.221966 83.210378 
+L 94.288151 82.220686 
+L 95.332347 81.230995 
+L 96.355859 80.241304 
+L 97.35987 79.251612 
+L 98.345455 78.261921 
+L 99.313591 77.272229 
+L 100.265174 76.282538 
+L 101.201026 75.292846 
+L 102.121901 74.303155 
+L 103.028496 73.313463 
+L 103.921456 72.323772 
+L 104.801378 71.334081 
+L 105.668816 70.344389 
+L 106.524289 69.354698 
+L 107.368277 68.365006 
+L 108.201231 67.375315 
+L 109.023572 66.385623 
+L 109.835698 65.395932 
+L 110.637978 64.40624 
+L 111.430763 63.416549 
+L 112.214381 62.426858 
+L 112.989145 61.437166 
+L 113.755346 60.447475 
+L 114.513264 59.457783 
+L 115.263161 58.468092 
+L 116.005286 57.4784 
+L 116.739876 56.488709 
+L 117.467156 55.499017 
+L 118.187341 54.509326 
+L 118.900633 53.519635 
+L 119.607227 52.529943 
+L 120.307309 51.540252 
+L 121.001054 50.55056 
+L 121.688632 49.560869 
+L 122.370205 48.571177 
+L 123.045928 47.581486 
+L 123.715948 46.591794 
+L 124.380407 45.602103 
+L 125.039441 44.612412 
+L 125.693182 43.62272 
+L 126.341755 42.633029 
+L 126.98528 41.643337 
+L 127.623874 40.653646 
+L 128.257648 39.663954 
+L 128.88671 38.674263 
+L 129.511163 37.684571 
+L 130.131107 36.69488 
+L 130.746639 35.705189 
+L 131.357851 34.715497 
+L 131.964833 33.725806 
+L 132.567672 32.736114 
+L 133.166451 31.746423 
+L 133.761251 30.756731 
+L 134.352151 29.76704 
+L 134.939226 28.777348 
+L 135.522549 27.787657 
+L 136.102193 26.797966 
+L 136.678224 25.808274 
+L 137.250711 24.818583 
+L 137.819718 23.828891 
+L 138.385307 22.8392 
+L 138.947539 21.849508 
+L 139.506474 20.859817 
+L 140.062168 19.870125 
+L 140.614678 18.880434 
+L 141.164057 17.890743 
+L 141.710359 16.901051 
+L 142.253633 15.91136 
+L 142.793931 14.921668 
+L 143.331301 13.931977 
+L 143.865789 12.942285 
+L 144.397441 11.952594 
+L 144.926303 10.962902 
+L 145.452417 9.973211 
+L 145.975826 8.98352 
+L 146.496572 7.993828 
+" clip-path="url(#pcd6f018118)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <defs>
+     <path id="m124b95cfd1" d="M 0 2 
+C 0.530406 2 1.03916 1.789267 1.414214 1.414214 
+C 1.789267 1.03916 2 0.530406 2 0 
+C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214 
+C 1.03916 -1.789267 0.530406 -2 0 -2 
+C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214 
+C -1.789267 -1.03916 -2 -0.530406 -2 0 
+C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214 
+C -1.03916 1.789267 -0.530406 2 0 2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pcd6f018118)">
+     <use xlink:href="#m124b95cfd1" x="139.854159" y="20.24126" style="stroke: #000000"/>
+    </g>
+   </g>
+   <g id="line2d_13">
+    <g clip-path="url(#pcd6f018118)">
+     <use xlink:href="#m124b95cfd1" x="95.073286" y="81.478418" style="stroke: #000000"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 43.65 105.973281 
+L 43.65 7.993828 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 43.65 105.973281 
+L 146.646008 105.973281 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 137.297167 90.296569 
+Q 117.463542 90.296569 97.629917 90.296569 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linecap: round"/>
+    <path d="M 132.897167 88.096569 
+L 137.297167 90.296569 
+L 132.897167 92.496569 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linecap: round"/>
+    <path d="M 102.029917 92.496569 
+L 97.629917 90.296569 
+L 102.029917 88.096569 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <!-- $\Delta L_{SEE}^{QR}$ -->
+    <g transform="translate(104.868722 101.726363) scale(0.11 -0.11)">
+     <defs>
+      <path id="MinionPro-Subh-394" d="M 3750 0 
+L 3750 128 
+L 2093 4250 
+L 1965 4205 
+L 256 128 
+L 256 0 
+L 3750 0 
+z
+M 3123 269 
+L 595 269 
+L 1869 3475 
+L 3123 269 
+z
+" transform="scale(0.015625)"/>
+      <path id="MinionPro-It-4c" d="M 3098 1062 
+C 2931 742 2790 550 2650 416 
+C 2490 256 2272 218 1901 218 
+C 1619 218 1414 230 1325 301 
+C 1222 378 1210 531 1254 762 
+L 1760 3418 
+C 1850 3904 1875 3936 2387 3981 
+L 2426 4154 
+L 826 4154 
+L 787 3981 
+C 1306 3936 1338 3910 1242 3418 
+L 717 742 
+C 621 256 576 211 83 166 
+L 45 0 
+L 2867 0 
+C 2957 192 3200 787 3277 998 
+L 3098 1062 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#MinionPro-Subh-394" transform="translate(0 0.71875)"/>
+     <use xlink:href="#MinionPro-It-4c" transform="translate(62.099991 0.71875)"/>
+     <use xlink:href="#MinionPro-It-51" transform="translate(121.767332 48.515625) scale(0.7)"/>
+     <use xlink:href="#MinionPro-It-52" transform="translate(171.397327 48.515625) scale(0.7)"/>
+     <use xlink:href="#MinionPro-It-53" transform="translate(115.299988 -21.734375) scale(0.7)"/>
+     <use xlink:href="#MinionPro-It-45" transform="translate(148.059979 -21.734375) scale(0.7)"/>
+     <use xlink:href="#MinionPro-It-45" transform="translate(187.189975 -21.734375) scale(0.7)"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- A -->
+    <g transform="translate(33.434687 7.81) scale(0.11 -0.11)">
+     <defs>
+      <path id="MyriadPro-Bold-41" d="M 2662 1107 
+L 2995 0 
+L 4051 0 
+L 2707 4314 
+L 1427 4314 
+L 115 0 
+L 1120 0 
+L 1427 1107 
+L 2662 1107 
+z
+M 1568 1837 
+L 1824 2752 
+C 1894 3002 1958 3328 2022 3584 
+L 2035 3584 
+C 2099 3328 2176 3008 2253 2752 
+L 2522 1837 
+L 1568 1837 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#MyriadPro-Bold-41"/>
+    </g>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_14">
+     <g>
+      <use xlink:href="#m124b95cfd1" x="54.87292" y="31.450326" style="stroke: #000000"/>
+     </g>
+    </g>
+    <g id="text_8">
+     <!-- Data -->
+     <g transform="translate(64.03592 34.657376) scale(0.09163 -0.09163)">
+      <defs>
+       <path id="MyriadPro-Regular-44" d="M 486 13 
+C 768 -19 1094 -38 1498 -38 
+C 2336 -38 3002 179 3411 582 
+C 3808 979 4032 1555 4032 2259 
+C 4032 2957 3808 3456 3418 3808 
+C 3040 4154 2470 4346 1670 4346 
+C 1229 4346 826 4307 486 4250 
+L 486 13 
+z
+M 1043 3846 
+C 1190 3878 1408 3904 1696 3904 
+C 2874 3904 3450 3258 3443 2240 
+C 3443 1075 2803 410 1606 410 
+C 1389 410 1184 416 1043 435 
+L 1043 3846 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-61" d="M 2643 1901 
+C 2643 2515 2413 3162 1466 3162 
+C 1075 3162 698 3053 442 2893 
+L 570 2515 
+C 787 2662 1088 2746 1382 2746 
+C 2016 2752 2086 2285 2086 2035 
+L 2086 1971 
+C 890 1978 224 1568 224 819 
+C 224 371 544 -70 1171 -70 
+C 1613 -70 1946 147 2118 390 
+L 2138 390 
+L 2182 0 
+L 2688 0 
+C 2656 211 2643 474 2643 742 
+L 2643 1901 
+z
+M 2099 1043 
+C 2099 992 2093 928 2074 864 
+C 1984 602 1722 346 1312 346 
+C 1030 346 787 512 787 883 
+C 787 1485 1485 1594 2099 1581 
+L 2099 1043 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-74" d="M 595 3674 
+L 595 3098 
+L 115 3098 
+L 115 2669 
+L 595 2669 
+L 595 979 
+C 595 614 659 339 813 166 
+C 947 19 1158 -70 1421 -70 
+C 1638 -70 1811 -32 1920 6 
+L 1894 435 
+C 1811 410 1722 397 1568 397 
+C 1254 397 1146 614 1146 998 
+L 1146 2669 
+L 1952 2669 
+L 1952 3098 
+L 1146 3098 
+L 1146 3840 
+L 595 3674 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MyriadPro-Regular-44"/>
+      <use xlink:href="#MyriadPro-Regular-61" transform="translate(66.599991 0)"/>
+      <use xlink:href="#MyriadPro-Regular-74" transform="translate(114.799988 0)"/>
+      <use xlink:href="#MyriadPro-Regular-61" transform="translate(147.899979 0)"/>
+     </g>
+    </g>
+    <g id="line2d_15">
+     <path d="M 50.29142 41.602644 
+L 54.87292 41.602644 
+L 59.45442 41.602644 
+" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+    </g>
+    <g id="text_9">
+     <!-- Estimated -->
+     <g transform="translate(64.03592 44.809694) scale(0.09163 -0.09163)">
+      <defs>
+       <path id="MyriadPro-Regular-45" d="M 2714 2483 
+L 1043 2483 
+L 1043 3846 
+L 2816 3846 
+L 2816 4314 
+L 480 4314 
+L 480 0 
+L 2912 0 
+L 2912 467 
+L 1043 467 
+L 1043 2022 
+L 2714 2022 
+L 2714 2483 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-73" d="M 256 147 
+C 474 19 787 -70 1126 -70 
+C 1850 -70 2278 314 2278 864 
+C 2278 1325 1997 1594 1466 1792 
+C 1062 1952 883 2067 883 2323 
+C 883 2554 1062 2746 1395 2746 
+C 1683 2746 1907 2637 2029 2560 
+L 2163 2970 
+C 1997 3078 1722 3162 1408 3162 
+C 749 3162 339 2752 339 2253 
+C 339 1882 602 1581 1165 1376 
+C 1574 1222 1734 1082 1734 813 
+C 1734 550 1542 352 1139 352 
+C 858 352 563 467 390 570 
+L 256 147 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-69" d="M 1030 0 
+L 1030 3098 
+L 467 3098 
+L 467 0 
+L 1030 0 
+z
+M 749 4320 
+C 538 4320 397 4160 397 3968 
+C 397 3776 531 3622 736 3622 
+C 960 3622 1094 3776 1094 3968 
+C 1094 4166 954 4320 749 4320 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-6d" d="M 467 0 
+L 1018 0 
+L 1018 1862 
+C 1018 1958 1030 2061 1062 2138 
+C 1152 2419 1414 2701 1760 2701 
+C 2189 2701 2406 2349 2406 1856 
+L 2406 0 
+L 2957 0 
+L 2957 1914 
+C 2957 2016 2976 2112 3002 2195 
+C 3104 2464 3347 2701 3674 2701 
+C 4122 2701 4346 2349 4346 1747 
+L 4346 0 
+L 4896 0 
+L 4896 1818 
+C 4896 2893 4288 3162 3872 3162 
+C 3578 3162 3379 3085 3194 2944 
+C 3066 2848 2938 2720 2842 2541 
+L 2829 2541 
+C 2694 2906 2374 3162 1958 3162 
+C 1440 3162 1152 2886 979 2592 
+L 960 2592 
+L 934 3098 
+L 442 3098 
+C 454 2842 467 2586 467 2259 
+L 467 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-65" d="M 2957 1446 
+C 2970 1510 2976 1594 2976 1709 
+C 2976 2278 2714 3162 1696 3162 
+C 794 3162 243 2432 243 1498 
+C 243 563 813 -70 1766 -70 
+C 2259 -70 2605 38 2803 128 
+L 2701 531 
+C 2496 442 2246 371 1843 371 
+C 1274 371 794 685 781 1446 
+L 2957 1446 
+z
+M 787 1850 
+C 832 2240 1075 2758 1651 2758 
+C 2285 2758 2438 2202 2432 1850 
+L 787 1850 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-64" d="M 2579 4544 
+L 2579 2694 
+L 2566 2694 
+C 2426 2938 2112 3162 1632 3162 
+C 883 3162 237 2534 243 1504 
+C 243 563 826 -70 1574 -70 
+C 2080 -70 2451 192 2618 538 
+L 2637 538 
+L 2662 0 
+L 3162 0 
+C 3149 211 3136 525 3136 800 
+L 3136 4544 
+L 2579 4544 
+z
+M 2579 1299 
+C 2579 1210 2573 1133 2554 1056 
+C 2451 640 2106 384 1728 384 
+C 1126 384 813 902 813 1530 
+C 813 2208 1158 2720 1741 2720 
+C 2163 2720 2470 2426 2554 2074 
+C 2573 2003 2579 1907 2579 1837 
+L 2579 1299 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MyriadPro-Regular-45"/>
+      <use xlink:href="#MyriadPro-Regular-73" transform="translate(49.199997 0)"/>
+      <use xlink:href="#MyriadPro-Regular-74" transform="translate(88.799988 0)"/>
+      <use xlink:href="#MyriadPro-Regular-69" transform="translate(121.899979 0)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(145.299973 0)"/>
+      <use xlink:href="#MyriadPro-Regular-61" transform="translate(228.699966 0)"/>
+      <use xlink:href="#MyriadPro-Regular-74" transform="translate(276.899963 0)"/>
+      <use xlink:href="#MyriadPro-Regular-65" transform="translate(309.999954 0)"/>
+      <use xlink:href="#MyriadPro-Regular-64" transform="translate(360.099945 0)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_6">
+    <path d="M 197.853906 105.973281 
+L 300.849914 105.973281 
+L 300.849914 7.993828 
+L 197.853906 7.993828 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_16">
+      <path d="M 197.853906 105.973281 
+L 197.853906 7.993828 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <!-- 0 -->
+      <g transform="translate(195.032578 117.283281) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_18">
+      <path d="M 277.685796 105.973281 
+L 277.685796 7.993828 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_11">
+      <!-- $c_{SEE}$ -->
+      <g transform="translate(269.325796 117.283281) scale(0.11 -0.11)">
+       <use xlink:href="#MinionPro-It-63" transform="translate(0 0.09375)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(38.199997 -13.378125) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(70.959988 -13.378125) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(110.089984 -13.378125) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_20">
+      <path d="M 250.248434 105.973281 
+L 250.248434 7.993828 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_21"/>
+     <g id="text_12">
+      <!-- $c_{SEE}$ -->
+      <g style="fill: #808080" transform="translate(241.888434 117.283281) scale(0.11 -0.11)">
+       <use xlink:href="#MinionPro-It-63" transform="translate(0 0.09375)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(38.199997 -13.378125) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(70.959988 -13.378125) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(110.089984 -13.378125) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_4">
+     <g id="line2d_22">
+      <path d="M 197.853906 105.973281 
+L 300.849914 105.973281 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_23"/>
+     <g id="text_13">
+      <!-- 0 -->
+      <g transform="translate(188.71125 109.878281) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_24">
+      <path d="M 197.853906 20.24126 
+L 300.849914 20.24126 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_25"/>
+     <g id="text_14">
+      <!-- $F_{SEE}^{QR-,data}$ -->
+      <g transform="translate(154.203906 25.63126) scale(0.11 -0.11)">
+       <use xlink:href="#MinionPro-It-46" transform="translate(0 0.360938)"/>
+       <use xlink:href="#MinionPro-It-51" transform="translate(59.167341 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-52" transform="translate(108.797336 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2212" transform="translate(161.74533 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2c" transform="translate(211.123318 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-64" transform="translate(236.981314 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(272.541305 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-74" transform="translate(306.841295 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(328.331292 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -22.092187) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_26">
+      <path d="M 197.853906 81.478418 
+L 300.849914 81.478418 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_27"/>
+     <g id="text_15">
+      <!-- $F_{SEE}^{QR+,data}$ -->
+      <g transform="translate(154.203906 86.868418) scale(0.11 -0.11)">
+       <use xlink:href="#MinionPro-It-46" transform="translate(0 0.360938)"/>
+       <use xlink:href="#MinionPro-It-51" transform="translate(59.167341 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-52" transform="translate(108.797336 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2b" transform="translate(161.74533 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2c" transform="translate(211.123318 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-64" transform="translate(236.981314 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(272.541305 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-74" transform="translate(306.841295 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(328.331292 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -22.092187) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_28">
+      <path d="M 197.853906 56.983555 
+L 300.849914 56.983555 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_29"/>
+     <g id="text_16">
+      <!-- $F_{SEE}^{QR-,data}$ -->
+      <g style="fill: #808080" transform="translate(154.203906 62.373555) scale(0.11 -0.11)">
+       <use xlink:href="#MinionPro-It-46" transform="translate(0 0.360938)"/>
+       <use xlink:href="#MinionPro-It-51" transform="translate(59.167341 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-52" transform="translate(108.797336 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2212" transform="translate(161.74533 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2c" transform="translate(211.123318 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-64" transform="translate(236.981314 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(272.541305 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-74" transform="translate(306.841295 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(328.331292 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -22.092187) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_30">
+      <path d="M 197.853906 99.849565 
+L 300.849914 99.849565 
+" clip-path="url(#pea12359476)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_31"/>
+     <g id="text_17">
+      <!-- $F_{SEE}^{QR+,data}$ -->
+      <g style="fill: #808080" transform="translate(154.203906 105.239565) scale(0.11 -0.11)">
+       <use xlink:href="#MinionPro-It-46" transform="translate(0 0.360938)"/>
+       <use xlink:href="#MinionPro-It-51" transform="translate(59.167341 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-52" transform="translate(108.797336 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2b" transform="translate(161.74533 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-Subh-2c" transform="translate(211.123318 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-64" transform="translate(236.981314 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(272.541305 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-74" transform="translate(306.841295 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-61" transform="translate(328.331292 48.157813) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -22.092187) scale(0.7)"/>
+       <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -22.092187) scale(0.7)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_32">
+    <path d="M 277.685796 20.24126 
+L 277.685796 14.277989 
+" clip-path="url(#pea12359476)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 232.904923 81.478418 
+L 232.904923 88.296814 
+" clip-path="url(#pea12359476)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 250.248434 56.983555 
+L 250.248434 66.476102 
+" clip-path="url(#pea12359476)" style="fill: none; stroke: #808080; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 227.857997 99.849565 
+L 227.857997 93.020734 
+" clip-path="url(#pea12359476)" style="fill: none; stroke: #808080; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 197.853906 105.973281 
+L 206.147692 104.98359 
+L 209.58309 103.993898 
+L 212.219164 103.004207 
+L 214.441477 102.014515 
+L 216.399374 101.024824 
+L 218.169449 100.035132 
+L 219.7972 99.045441 
+L 221.312274 98.05575 
+L 222.735263 97.066058 
+L 224.081159 96.076367 
+L 225.361281 95.086675 
+L 226.584422 94.096984 
+L 227.757575 93.107292 
+L 228.88641 92.117601 
+L 229.975599 91.127909 
+L 231.029048 90.138218 
+L 232.05006 89.148527 
+L 233.041458 88.158835 
+L 234.005679 87.169144 
+L 234.944842 86.179452 
+L 235.860806 85.189761 
+L 236.755208 84.200069 
+L 237.629504 83.210378 
+L 238.484991 82.220686 
+L 239.322833 81.230995 
+L 240.14408 80.241304 
+L 240.94968 79.251612 
+L 241.740494 78.261921 
+L 242.517308 77.272229 
+L 243.28084 76.282538 
+L 244.031749 75.292846 
+L 244.770642 74.303155 
+L 245.498076 73.313463 
+L 246.21457 72.323772 
+L 246.920603 71.334081 
+L 247.616619 70.344389 
+L 248.303034 69.354698 
+L 248.980233 68.365006 
+L 249.64858 67.375315 
+L 250.308411 66.385623 
+L 250.960045 65.395932 
+L 251.603779 64.40624 
+L 252.239894 63.416549 
+L 252.868655 62.426858 
+L 253.49031 61.437166 
+L 254.105096 60.447475 
+L 254.713235 59.457783 
+L 255.314937 58.468092 
+L 255.910404 57.4784 
+L 256.499826 56.488709 
+L 257.083381 55.499017 
+L 257.661244 54.509326 
+L 258.233576 53.519635 
+L 258.800533 52.529943 
+L 259.362265 51.540252 
+L 259.918913 50.55056 
+L 260.470613 49.560869 
+L 261.017494 48.571177 
+L 261.559681 47.581486 
+L 262.097292 46.591794 
+L 262.630441 45.602103 
+L 263.159238 44.612412 
+L 263.683787 43.62272 
+L 264.20419 42.633029 
+L 264.720542 41.643337 
+L 265.232938 40.653646 
+L 265.741466 39.663954 
+L 266.246213 38.674263 
+L 266.747262 37.684571 
+L 267.244694 36.69488 
+L 267.738585 35.705189 
+L 268.229009 34.715497 
+L 268.71604 33.725806 
+L 269.199746 32.736114 
+L 269.680195 31.746423 
+L 270.157451 30.756731 
+L 270.631578 29.76704 
+L 271.102636 28.777348 
+L 271.570684 27.787657 
+L 272.035778 26.797966 
+L 272.497975 25.808274 
+L 272.957328 24.818583 
+L 273.413888 23.828891 
+L 273.867705 22.8392 
+L 274.31883 21.849508 
+L 274.767308 20.859817 
+L 275.213187 19.870125 
+L 275.65651 18.880434 
+L 276.097322 17.890743 
+L 276.535664 16.901051 
+L 276.971577 15.91136 
+L 277.405102 14.921668 
+L 277.836277 13.931977 
+L 278.26514 12.942285 
+L 278.691727 11.952594 
+L 279.116076 10.962902 
+L 279.53822 9.973211 
+L 279.958193 8.98352 
+L 280.376029 7.993828 
+" clip-path="url(#pea12359476)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <g clip-path="url(#pea12359476)">
+     <use xlink:href="#m124b95cfd1" x="277.685796" y="20.24126" style="stroke: #000000"/>
+    </g>
+   </g>
+   <g id="line2d_38">
+    <g clip-path="url(#pea12359476)">
+     <use xlink:href="#m124b95cfd1" x="232.904923" y="81.478418" style="stroke: #000000"/>
+    </g>
+   </g>
+   <g id="line2d_39">
+    <defs>
+     <path id="mde32746a64" d="M 0 2 
+C 0.530406 2 1.03916 1.789267 1.414214 1.414214 
+C 1.789267 1.03916 2 0.530406 2 0 
+C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214 
+C 1.03916 -1.789267 0.530406 -2 0 -2 
+C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214 
+C -1.789267 -1.03916 -2 -0.530406 -2 0 
+C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214 
+C -1.03916 1.789267 -0.530406 2 0 2 
+z
+" style="stroke: #808080"/>
+    </defs>
+    <g clip-path="url(#pea12359476)">
+     <use xlink:href="#mde32746a64" x="250.248434" y="56.983555" style="fill: #808080; stroke: #808080"/>
+    </g>
+   </g>
+   <g id="line2d_40">
+    <g clip-path="url(#pea12359476)">
+     <use xlink:href="#mde32746a64" x="227.857997" y="99.849565" style="fill: #808080; stroke: #808080"/>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 197.853906 105.973281 
+L 197.853906 7.993828 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 197.853906 105.973281 
+L 300.849914 105.973281 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_18">
+    <!-- B -->
+    <g transform="translate(188.209219 7.81) scale(0.11 -0.11)">
+     <defs>
+      <path id="MyriadPro-Bold-42" d="M 422 19 
+C 640 -13 998 -45 1478 -45 
+C 2336 -45 2861 96 3174 346 
+C 3443 563 3622 870 3622 1267 
+C 3622 1818 3258 2195 2765 2323 
+L 2765 2336 
+C 3251 2522 3475 2874 3475 3251 
+C 3475 3648 3264 3942 2963 4102 
+C 2643 4288 2278 4346 1683 4346 
+C 1190 4346 678 4301 422 4256 
+L 422 19 
+z
+M 1389 3610 
+C 1466 3622 1587 3635 1805 3635 
+C 2246 3635 2496 3462 2496 3136 
+C 2496 2816 2227 2605 1709 2605 
+L 1389 2605 
+L 1389 3610 
+z
+M 1389 1907 
+L 1722 1907 
+C 2208 1907 2598 1734 2598 1306 
+C 2598 851 2208 678 1766 678 
+C 1600 678 1485 678 1389 691 
+L 1389 1907 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#MyriadPro-Bold-42"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcd6f018118">
+   <rect x="43.65" y="7.993828" width="102.996008" height="97.979453"/>
+  </clipPath>
+  <clipPath id="pea12359476">
+   <rect x="197.853906" y="7.993828" width="102.996008" height="97.979453"/>
+  </clipPath>
+ </defs>
+</svg>

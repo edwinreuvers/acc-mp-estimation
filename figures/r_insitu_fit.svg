@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="225.637315pt" height="156.613693pt" viewBox="0 0 225.637315 156.613693" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-02-25T13:38:16.925486</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 156.613693 
+L 225.637315 156.613693 
+L 225.637315 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 28.772969 47.831294 
+L 107.269082 47.831294 
+L 107.269082 7.993828 
+L 28.772969 7.993828 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 28.772969 47.831294 
+L 28.772969 7.993828 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <!-- 29 -->
+      <g transform="translate(23.130313 59.141294) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-32" d="M 2944 0 
+L 2944 467 
+L 1082 467 
+L 1082 480 
+L 1408 787 
+C 2285 1632 2842 2253 2842 3021 
+C 2842 3616 2464 4230 1568 4230 
+C 1094 4230 678 4045 397 3808 
+L 576 3411 
+C 768 3571 1082 3763 1459 3763 
+C 2080 3763 2278 3373 2278 2950 
+C 2278 2323 1792 1786 730 774 
+L 288 346 
+L 288 0 
+L 2944 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="MyriadPro-Regular-39" d="M 614 -64 
+C 749 -70 928 -64 1133 -32 
+C 1581 19 2022 211 2342 525 
+C 2752 922 3059 1562 3059 2470 
+C 3059 3546 2534 4230 1683 4230 
+C 832 4230 262 3539 262 2752 
+C 262 2042 742 1478 1485 1478 
+C 1907 1478 2240 1638 2470 1920 
+L 2490 1920 
+C 2413 1434 2214 1069 1939 819 
+C 1702 589 1395 461 1069 416 
+C 877 397 736 384 614 397 
+L 614 -64 
+z
+M 1632 3802 
+C 2227 3802 2490 3258 2490 2547 
+C 2490 2451 2470 2394 2438 2336 
+C 2291 2086 1997 1901 1619 1901 
+C 1133 1901 819 2266 819 2784 
+C 819 3379 1158 3802 1632 3802 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-32"/>
+       <use xlink:href="#MyriadPro-Regular-39" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 46.216549 47.831294 
+L 46.216549 7.993828 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_4"/>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 63.66013 47.831294 
+L 63.66013 7.993828 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_2">
+      <!-- 31 -->
+      <g transform="translate(58.017474 59.141294) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-33" d="M 269 211 
+C 474 77 883 -70 1350 -70 
+C 2342 -70 2867 512 2867 1178 
+C 2861 1760 2451 2144 1939 2240 
+L 1939 2253 
+C 2445 2438 2707 2803 2707 3238 
+C 2707 3744 2336 4230 1517 4230 
+C 1069 4230 646 4070 422 3910 
+L 576 3501 
+C 755 3629 1075 3776 1408 3776 
+C 1926 3776 2138 3482 2138 3149 
+C 2138 2656 1619 2445 1210 2445 
+L 896 2445 
+L 896 2022 
+L 1210 2022 
+C 1754 2022 2278 1773 2285 1190 
+C 2291 838 2061 384 1344 384 
+C 947 384 582 544 422 640 
+L 269 211 
+z
+" transform="scale(0.015625)"/>
+        <path id="MyriadPro-Regular-31" d="M 1510 0 
+L 2054 0 
+L 2054 4160 
+L 1574 4160 
+L 666 3674 
+L 774 3245 
+L 1498 3635 
+L 1510 3635 
+L 1510 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-33"/>
+       <use xlink:href="#MyriadPro-Regular-31" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 81.103711 47.831294 
+L 81.103711 7.993828 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_8"/>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 98.547291 47.831294 
+L 98.547291 7.993828 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_3">
+      <!-- 33 -->
+      <g transform="translate(92.904635 59.141294) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-33"/>
+       <use xlink:href="#MyriadPro-Regular-33" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_4">
+     <!-- $L_{SEE}$ [mm] -->
+     <g transform="translate(45.361025 73.12895) scale(0.11 -0.11)">
+      <defs>
+       <path id="MinionPro-It-4c" d="M 3098 1062 
+C 2931 742 2790 550 2650 416 
+C 2490 256 2272 218 1901 218 
+C 1619 218 1414 230 1325 301 
+C 1222 378 1210 531 1254 762 
+L 1760 3418 
+C 1850 3904 1875 3936 2387 3981 
+L 2426 4154 
+L 826 4154 
+L 787 3981 
+C 1306 3936 1338 3910 1242 3418 
+L 717 742 
+C 621 256 576 211 83 166 
+L 45 0 
+L 2867 0 
+C 2957 192 3200 787 3277 998 
+L 3098 1062 
+z
+" transform="scale(0.015625)"/>
+       <path id="MinionPro-It-53" d="M 243 1248 
+C 256 794 256 448 262 294 
+C 403 134 851 -96 1363 -96 
+C 2106 -96 2758 378 2758 1120 
+C 2758 1626 2458 1965 2016 2291 
+L 1824 2438 
+C 1491 2688 1229 2918 1229 3296 
+C 1229 3686 1498 4038 1946 4038 
+C 2490 4038 2662 3610 2714 3123 
+L 2899 3142 
+C 2906 3437 2893 3776 2912 4045 
+C 2867 4064 2758 4102 2637 4147 
+C 2458 4211 2240 4250 2029 4250 
+C 1254 4250 730 3770 730 3104 
+C 730 2573 1152 2221 1440 1990 
+L 1626 1850 
+C 2003 1555 2227 1306 2227 941 
+C 2227 435 1907 115 1446 115 
+C 749 115 480 781 416 1267 
+L 243 1248 
+z
+" transform="scale(0.015625)"/>
+       <path id="MinionPro-It-45" d="M 826 4154 
+L 774 3981 
+C 1299 3936 1331 3904 1235 3392 
+L 723 768 
+C 627 250 576 218 51 173 
+L 13 0 
+L 3008 0 
+C 3104 198 3347 813 3418 986 
+L 3238 1050 
+C 3104 819 2957 582 2803 435 
+C 2624 269 2438 218 1958 218 
+C 1600 218 1408 230 1312 307 
+C 1222 384 1216 550 1286 922 
+L 1498 2042 
+L 2106 2042 
+C 2662 2042 2662 1997 2650 1542 
+L 2835 1542 
+L 3078 2758 
+L 2893 2758 
+C 2739 2336 2694 2291 2163 2291 
+L 1542 2291 
+L 1818 3674 
+C 1862 3917 1875 3936 2093 3936 
+L 2592 3936 
+C 3066 3936 3149 3872 3213 3725 
+C 3283 3597 3296 3405 3296 3162 
+L 3482 3174 
+C 3526 3552 3584 4038 3603 4154 
+L 826 4154 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-20" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-5b" d="M 1690 -717 
+L 1690 -365 
+L 960 -365 
+L 960 4038 
+L 1690 4038 
+L 1690 4390 
+L 518 4390 
+L 518 -717 
+L 1690 -717 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-6d" d="M 467 0 
+L 1018 0 
+L 1018 1862 
+C 1018 1958 1030 2061 1062 2138 
+C 1152 2419 1414 2701 1760 2701 
+C 2189 2701 2406 2349 2406 1856 
+L 2406 0 
+L 2957 0 
+L 2957 1914 
+C 2957 2016 2976 2112 3002 2195 
+C 3104 2464 3347 2701 3674 2701 
+C 4122 2701 4346 2349 4346 1747 
+L 4346 0 
+L 4896 0 
+L 4896 1818 
+C 4896 2893 4288 3162 3872 3162 
+C 3578 3162 3379 3085 3194 2944 
+C 3066 2848 2938 2720 2842 2541 
+L 2829 2541 
+C 2694 2906 2374 3162 1958 3162 
+C 1440 3162 1152 2886 979 2592 
+L 960 2592 
+L 934 3098 
+L 442 3098 
+C 454 2842 467 2586 467 2259 
+L 467 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-5d" d="M 128 4390 
+L 128 4038 
+L 858 4038 
+L 858 -365 
+L 128 -365 
+L 128 -717 
+L 1299 -717 
+L 1299 4390 
+L 128 4390 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MinionPro-It-4c" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-53" transform="translate(53.199997 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(85.959988 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(125.089984 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(166.465292 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(187.665289 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(216.065283 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(299.465277 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(382.865271 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11">
+      <path d="M 28.772969 47.831294 
+L 107.269082 47.831294 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_5">
+      <!-- 0 -->
+      <g transform="translate(19.630313 51.736294) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-30" d="M 1683 4230 
+C 838 4230 230 3469 230 2067 
+C 243 691 800 -70 1613 -70 
+C 2528 -70 3059 710 3059 2125 
+C 3059 3450 2554 4230 1683 4230 
+z
+M 1645 3795 
+C 2234 3795 2490 3123 2490 2099 
+C 2490 1037 2214 365 1645 365 
+C 1133 365 800 979 800 2061 
+C 800 3194 1158 3795 1645 3795 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_13">
+      <path d="M 28.772969 41.002014 
+L 107.269082 41.002014 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_14"/>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <path d="M 28.772969 34.172734 
+L 107.269082 34.172734 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_6">
+      <!-- 6 -->
+      <g transform="translate(19.630313 38.077734) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-36" d="M 2662 4224 
+C 2560 4224 2419 4218 2253 4192 
+C 1728 4128 1267 3917 922 3578 
+C 506 3168 218 2522 218 1702 
+C 218 621 800 -70 1683 -70 
+C 2554 -70 3072 634 3072 1402 
+C 3072 2208 2554 2746 1818 2746 
+C 1357 2746 1005 2528 806 2259 
+L 794 2259 
+C 890 2950 1350 3590 2240 3731 
+C 2400 3757 2547 3770 2662 3763 
+L 2662 4224 
+z
+M 1696 365 
+C 1101 365 781 877 774 1562 
+C 774 1664 800 1741 832 1805 
+C 986 2112 1306 2317 1645 2317 
+C 2163 2317 2502 1958 2502 1363 
+C 2502 768 2176 365 1696 365 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_17">
+      <path d="M 28.772969 27.343454 
+L 107.269082 27.343454 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_18"/>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19">
+      <path d="M 28.772969 20.514175 
+L 107.269082 20.514175 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_20"/>
+     <g id="text_7">
+      <!-- 12 -->
+      <g transform="translate(13.987656 24.419175) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-31"/>
+       <use xlink:href="#MyriadPro-Regular-32" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_21">
+      <path d="M 28.772969 13.684895 
+L 107.269082 13.684895 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_22"/>
+    </g>
+    <g id="text_8">
+     <!-- $F_{SEE}$ [N] -->
+     <g transform="translate(7.81 44.962561) rotate(-90) scale(0.11 -0.11)">
+      <defs>
+       <path id="MinionPro-It-46" d="M 845 4154 
+L 800 3981 
+C 1312 3930 1338 3910 1229 3347 
+L 742 800 
+C 640 256 589 218 109 173 
+L 70 0 
+L 1754 0 
+L 1798 173 
+C 1216 218 1165 262 1267 800 
+L 1485 1971 
+L 2150 1971 
+C 2701 1971 2714 1920 2714 1453 
+L 2893 1453 
+L 3136 2682 
+L 2957 2682 
+C 2784 2266 2758 2221 2208 2221 
+L 1536 2221 
+L 1818 3686 
+C 1862 3904 1875 3936 2093 3936 
+L 2611 3936 
+C 3072 3936 3181 3872 3232 3712 
+C 3283 3584 3296 3366 3302 3162 
+L 3488 3174 
+C 3533 3546 3590 4038 3603 4154 
+L 845 4154 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-4e" d="M 1011 0 
+L 1011 1843 
+C 1011 2560 1005 3078 973 3622 
+L 992 3629 
+C 1203 3162 1491 2669 1792 2189 
+L 3162 0 
+L 3725 0 
+L 3725 4314 
+L 3200 4314 
+L 3200 2509 
+C 3200 1837 3213 1312 3264 736 
+L 3245 730 
+C 3046 1171 2790 1626 2477 2131 
+L 1101 4314 
+L 486 4314 
+L 486 0 
+L 1011 0 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MinionPro-It-46" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(165.965292 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(187.165289 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-4e" transform="translate(215.565283 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(281.365271 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_23">
+    <path d="M 25.478755 47.831294 
+L 26.190131 47.827691 
+L 26.901506 47.816884 
+L 27.612882 47.79887 
+L 28.324257 47.773652 
+L 29.035633 47.741228 
+L 29.747008 47.701599 
+L 30.458384 47.654765 
+L 31.169759 47.600726 
+L 31.881135 47.539481 
+L 32.59251 47.471031 
+L 33.303886 47.395376 
+L 34.015261 47.312515 
+L 34.726637 47.22245 
+L 35.438012 47.125179 
+L 36.149388 47.020702 
+L 36.860763 46.909021 
+L 37.572139 46.790134 
+L 38.283514 46.664042 
+L 38.99489 46.530745 
+L 39.706265 46.390242 
+L 40.417641 46.242534 
+L 41.129017 46.087621 
+L 41.840392 45.925503 
+L 42.551768 45.756179 
+L 43.263143 45.57965 
+L 43.974519 45.395916 
+L 44.685894 45.204977 
+L 45.39727 45.006832 
+L 46.108645 44.801482 
+L 46.820021 44.588927 
+L 47.531396 44.369167 
+L 48.242772 44.142201 
+L 48.954147 43.90803 
+L 49.665523 43.666654 
+L 50.376898 43.418072 
+L 51.088274 43.162286 
+L 51.799649 42.899294 
+L 52.511025 42.629096 
+L 53.2224 42.351694 
+L 53.933776 42.067086 
+L 54.645151 41.775273 
+L 55.356527 41.476255 
+L 56.067902 41.170031 
+L 56.779278 40.856602 
+L 57.490654 40.535968 
+L 58.202029 40.208129 
+L 58.913405 39.873084 
+L 59.62478 39.530834 
+L 60.336156 39.181379 
+L 61.047531 38.824719 
+L 61.758907 38.460853 
+L 62.470282 38.089782 
+L 63.181658 37.711506 
+L 63.893033 37.326025 
+L 64.604409 36.933338 
+L 65.315784 36.533446 
+L 66.02716 36.126349 
+L 66.738535 35.712047 
+L 67.449911 35.290539 
+L 68.161286 34.861826 
+L 68.872662 34.425908 
+L 69.584037 33.982784 
+L 70.295413 33.532455 
+L 71.006788 33.074921 
+L 71.718164 32.610182 
+L 72.429539 32.138238 
+L 73.140915 31.659088 
+L 73.852291 31.172733 
+L 74.563666 30.679172 
+L 75.275042 30.178407 
+L 75.986417 29.670436 
+L 76.697793 29.15526 
+L 77.409168 28.632879 
+L 78.120544 28.103292 
+L 78.831919 27.5665 
+L 79.543295 27.022503 
+L 80.25467 26.471301 
+L 80.966046 25.912893 
+L 81.677421 25.34728 
+L 82.388797 24.774462 
+L 83.100172 24.194438 
+L 83.811548 23.60721 
+L 84.522923 23.012776 
+L 85.234299 22.411136 
+L 85.945674 21.802292 
+L 86.65705 21.186242 
+L 87.368425 20.562987 
+L 88.079801 19.932527 
+L 88.791176 19.294861 
+L 89.502552 18.649991 
+L 90.213927 17.997915 
+L 90.925303 17.338633 
+L 91.636679 16.672147 
+L 92.348054 15.998455 
+L 93.05943 15.317558 
+L 93.770805 14.629456 
+L 94.482181 13.934148 
+L 95.193556 13.231635 
+L 95.904932 12.521917 
+" clip-path="url(#p2851727a25)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <defs>
+     <path id="m7b42416cd6" d="M 0 1.5 
+C 0.397805 1.5 0.77937 1.341951 1.06066 1.06066 
+C 1.341951 0.77937 1.5 0.397805 1.5 0 
+C 1.5 -0.397805 1.341951 -0.77937 1.06066 -1.06066 
+C 0.77937 -1.341951 0.397805 -1.5 0 -1.5 
+C -0.397805 -1.5 -0.77937 -1.341951 -1.06066 -1.06066 
+C -1.341951 -0.77937 -1.5 -0.397805 -1.5 0 
+C -1.5 0.397805 -1.341951 0.77937 -1.06066 1.06066 
+C -0.77937 1.341951 -0.397805 1.5 0 1.5 
+z
+" style="stroke: #ff7f0e"/>
+    </defs>
+    <g clip-path="url(#p2851727a25)">
+     <use xlink:href="#m7b42416cd6" x="92.133942" y="16.221671" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="86.657757" y="21.166822" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="67.304704" y="35.165392" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="58.45399" y="39.888781" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="93.922289" y="14.526789" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="74.788198" y="30.422958" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="90.271933" y="18.056483" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="80.573212" y="26.17093" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="95.603879" y="12.943938" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="46.872057" y="44.474842" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="95.593484" y="12.933248" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+    </g>
+   </g>
+   <g id="line2d_25">
+    <g clip-path="url(#p2851727a25)">
+     <use xlink:href="#m7b42416cd6" x="89.325382" y="18.790718" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="83.841389" y="23.60213" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="64.46578" y="37.23762" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="55.550643" y="41.614367" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="91.121594" y="17.108745" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="71.991275" y="32.534731" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="87.47634" y="20.350703" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="77.805274" y="28.39281" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="92.807993" y="15.433238" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="43.839485" y="45.545829" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="92.839556" y="15.424982" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 28.772969 47.831294 
+L 28.772969 7.993828 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 28.772969 47.831294 
+L 107.269082 47.831294 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <!-- A -->
+    <g transform="translate(18.557656 7.81) scale(0.11 -0.11)">
+     <defs>
+      <path id="MyriadPro-Bold-41" d="M 2662 1107 
+L 2995 0 
+L 4051 0 
+L 2707 4314 
+L 1427 4314 
+L 115 0 
+L 1120 0 
+L 1427 1107 
+L 2662 1107 
+z
+M 1568 1837 
+L 1824 2752 
+C 1894 3002 1958 3328 2022 3584 
+L 2035 3584 
+C 2099 3328 2176 3008 2253 2752 
+L 2522 1837 
+L 1568 1837 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#MyriadPro-Bold-41"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 144.319874 47.831294 
+L 222.815987 47.831294 
+L 222.815987 7.993828 
+L 144.319874 7.993828 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_26">
+      <path d="M 148.680769 47.831294 
+L 148.680769 7.993828 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_27"/>
+     <g id="text_10">
+      <!-- 11 -->
+      <g transform="translate(143.038113 59.141294) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-31"/>
+       <use xlink:href="#MyriadPro-Regular-31" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_28">
+      <path d="M 166.12435 47.831294 
+L 166.12435 7.993828 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_29"/>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_30">
+      <path d="M 183.567931 47.831294 
+L 183.567931 7.993828 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_31"/>
+     <g id="text_11">
+      <!-- 15 -->
+      <g transform="translate(177.925274 59.141294) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-35" d="M 2771 4160 
+L 781 4160 
+L 512 2163 
+C 666 2182 851 2202 1094 2202 
+C 1920 2202 2285 1824 2285 1286 
+C 2291 730 1830 384 1306 384 
+C 922 384 582 512 410 614 
+L 269 186 
+C 474 58 851 -70 1306 -70 
+C 2208 -70 2854 538 2854 1350 
+C 2854 1869 2586 2234 2259 2413 
+C 2003 2573 1690 2637 1363 2637 
+C 1210 2637 1120 2630 1024 2618 
+L 1184 3686 
+L 2771 3686 
+L 2771 4160 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-31"/>
+       <use xlink:href="#MyriadPro-Regular-35" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_32">
+      <path d="M 201.011511 47.831294 
+L 201.011511 7.993828 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_33"/>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_34">
+      <path d="M 218.455092 47.831294 
+L 218.455092 7.993828 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_35"/>
+     <g id="text_12">
+      <!-- 19 -->
+      <g transform="translate(212.812436 59.141294) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-31"/>
+       <use xlink:href="#MyriadPro-Regular-39" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_13">
+     <!-- $L_{PEE}$ [mm] -->
+     <g transform="translate(160.577931 73.12895) scale(0.11 -0.11)">
+      <defs>
+       <path id="MinionPro-It-50" d="M 845 4154 
+L 800 3981 
+C 1318 3930 1344 3891 1248 3392 
+L 730 794 
+C 621 256 576 224 83 173 
+L 38 0 
+L 1741 0 
+L 1773 173 
+C 1190 224 1146 262 1248 794 
+L 1446 1811 
+L 1875 1677 
+C 1952 1677 2035 1677 2118 1683 
+C 2810 1728 3648 2163 3648 3072 
+C 3648 3776 3200 4154 2298 4154 
+L 845 4154 
+z
+M 1786 3597 
+C 1824 3802 1869 3872 1946 3904 
+C 2016 3936 2112 3955 2214 3955 
+C 2778 3955 3072 3629 3072 3098 
+C 3072 2234 2413 1933 1958 1933 
+C 1728 1933 1574 1984 1491 2016 
+L 1786 3597 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MinionPro-It-4c" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-50" transform="translate(53.199997 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(91.979993 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(131.109988 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(172.485297 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(193.685294 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(222.085287 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(305.485281 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(388.885275 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_36">
+      <path d="M 144.319874 47.831294 
+L 222.815987 47.831294 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_37"/>
+     <g id="text_14">
+      <!-- 0.0 -->
+      <g transform="translate(127.257218 51.736294) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-2e" d="M 704 -70 
+C 941 -70 1094 102 1094 333 
+C 1094 570 941 736 717 736 
+C 493 736 333 563 333 333 
+C 333 102 486 -70 704 -70 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-30"/>
+       <use xlink:href="#MyriadPro-Regular-2e" transform="translate(51.299988 0)"/>
+       <use xlink:href="#MyriadPro-Regular-30" transform="translate(71.999985 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_38">
+      <path d="M 144.319874 40.588118 
+L 222.815987 40.588118 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_39"/>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_40">
+      <path d="M 144.319874 33.344943 
+L 222.815987 33.344943 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_41"/>
+     <g id="text_15">
+      <!-- 0.2 -->
+      <g transform="translate(127.257218 37.249943) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-30"/>
+       <use xlink:href="#MyriadPro-Regular-2e" transform="translate(51.299988 0)"/>
+       <use xlink:href="#MyriadPro-Regular-32" transform="translate(71.999985 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_42">
+      <path d="M 144.319874 26.101767 
+L 222.815987 26.101767 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_43"/>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_44">
+      <path d="M 144.319874 18.858592 
+L 222.815987 18.858592 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_45"/>
+     <g id="text_16">
+      <!-- 0.4 -->
+      <g transform="translate(127.257218 22.763592) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-34" d="M 2560 0 
+L 2560 1139 
+L 3142 1139 
+L 3142 1574 
+L 2560 1574 
+L 2560 4160 
+L 1952 4160 
+L 96 1504 
+L 96 1139 
+L 2029 1139 
+L 2029 0 
+L 2560 0 
+z
+M 666 1574 
+L 666 1587 
+L 1683 3002 
+C 1798 3194 1901 3373 2029 3616 
+L 2048 3616 
+C 2035 3398 2029 3181 2029 2963 
+L 2029 1574 
+L 666 1574 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-30"/>
+       <use xlink:href="#MyriadPro-Regular-2e" transform="translate(51.299988 0)"/>
+       <use xlink:href="#MyriadPro-Regular-34" transform="translate(71.999985 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_46">
+      <path d="M 144.319874 11.615416 
+L 222.815987 11.615416 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_47"/>
+    </g>
+    <g id="text_17">
+     <!-- $F_{PEE}$ [N] -->
+     <g transform="translate(121.079562 45.292561) rotate(-90) scale(0.11 -0.11)">
+      <use xlink:href="#MinionPro-It-46" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-50" transform="translate(52.699997 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(91.479993 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(130.609988 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(171.985297 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(193.185294 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-4e" transform="translate(221.585287 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(287.385275 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_48">
+    <path d="M 184.716539 47.831294 
+L 186.763537 47.716665 
+L 188.810535 47.372778 
+L 190.857533 46.799632 
+L 192.90453 45.997228 
+L 194.951528 44.965566 
+L 196.998526 43.704645 
+L 199.045524 42.214466 
+L 201.092521 40.495029 
+L 203.139519 38.546334 
+L 205.186517 36.36838 
+L 207.233515 33.961168 
+L 209.280512 31.324698 
+L 211.32751 28.45897 
+L 213.374508 25.363983 
+L 215.421506 22.039738 
+L 217.468503 18.486235 
+L 219.515501 14.703473 
+L 221.562499 10.691453 
+L 223.609497 6.450175 
+L 225.656495 1.979639 
+L 226.637315 -0.272272 
+" clip-path="url(#pefbc902d0d)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_49">
+    <g clip-path="url(#pefbc902d0d)">
+     <use xlink:href="#m7b42416cd6" x="187.143805" y="42.428215" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="170.548479" y="45.54832" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="144.899298" y="46.804979" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="136.328487" y="47.093478" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="195.25723" y="39.423778" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="153.538938" y="46.664674" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="178.943426" y="44.555483" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="162.036256" y="46.162431" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="203.243386" y="34.945141" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="127.729959" y="47.302029" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="210.788646" y="25.66515" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 144.319874 47.831294 
+L 144.319874 7.993828 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 144.319874 47.831294 
+L 222.815987 47.831294 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_18">
+    <!-- B -->
+    <g transform="translate(134.675187 7.81) scale(0.11 -0.11)">
+     <defs>
+      <path id="MyriadPro-Bold-42" d="M 422 19 
+C 640 -13 998 -45 1478 -45 
+C 2336 -45 2861 96 3174 346 
+C 3443 563 3622 870 3622 1267 
+C 3622 1818 3258 2195 2765 2323 
+L 2765 2336 
+C 3251 2522 3475 2874 3475 3251 
+C 3475 3648 3264 3942 2963 4102 
+C 2643 4288 2278 4346 1683 4346 
+C 1190 4346 678 4301 422 4256 
+L 422 19 
+z
+M 1389 3610 
+C 1466 3622 1587 3635 1805 3635 
+C 2246 3635 2496 3462 2496 3136 
+C 2496 2816 2227 2605 1709 2605 
+L 1389 2605 
+L 1389 3610 
+z
+M 1389 1907 
+L 1722 1907 
+C 2208 1907 2598 1734 2598 1306 
+C 2598 851 2208 678 1766 678 
+C 1600 678 1485 678 1389 691 
+L 1389 1907 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#MyriadPro-Bold-42"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 28.772969 129.138381 
+L 107.269082 129.138381 
+L 107.269082 89.300915 
+L 28.772969 89.300915 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_11">
+     <g id="line2d_50">
+      <path d="M 36.62258 129.138381 
+L 36.62258 89.300915 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_51"/>
+     <g id="text_19">
+      <!-- 35 -->
+      <g transform="translate(30.979924 140.448381) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-33"/>
+       <use xlink:href="#MyriadPro-Regular-35" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_52">
+      <path d="M 52.321803 129.138381 
+L 52.321803 89.300915 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_53"/>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_54">
+      <path d="M 68.021025 129.138381 
+L 68.021025 89.300915 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_55"/>
+     <g id="text_20">
+      <!-- 41 -->
+      <g transform="translate(62.378369 140.448381) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-34"/>
+       <use xlink:href="#MyriadPro-Regular-31" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_56">
+      <path d="M 83.720248 129.138381 
+L 83.720248 89.300915 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_57"/>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_58">
+      <path d="M 99.41947 129.138381 
+L 99.41947 89.300915 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_59"/>
+     <g id="text_21">
+      <!-- 47 -->
+      <g transform="translate(93.776814 140.448381) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-37" d="M 365 4160 
+L 365 3693 
+L 2400 3693 
+L 2400 3680 
+L 595 0 
+L 1178 0 
+L 2989 3789 
+L 2989 4160 
+L 365 4160 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-34"/>
+       <use xlink:href="#MyriadPro-Regular-37" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_22">
+     <!-- $L_{MTC}$ [mm] -->
+     <g transform="translate(43.326025 154.436037) scale(0.11 -0.11)">
+      <defs>
+       <path id="MinionPro-It-4d" d="M 5824 4154 
+L 4787 4154 
+L 2790 947 
+C 2534 2093 2310 3104 2093 4154 
+L 1030 4154 
+L 986 3981 
+C 1587 3923 1626 3885 1440 3245 
+L 1082 2029 
+C 845 1210 723 826 621 563 
+C 518 294 390 205 19 173 
+L -26 0 
+L 1421 0 
+L 1459 173 
+C 986 218 928 294 973 570 
+C 998 800 1094 1146 1274 1805 
+L 1734 3488 
+L 1747 3488 
+C 1990 2266 2195 1171 2400 26 
+L 2547 26 
+L 4666 3558 
+L 4678 3558 
+C 4538 2656 4397 1811 4256 864 
+C 4166 250 4128 218 3635 173 
+L 3590 0 
+L 5210 0 
+L 5254 173 
+C 4742 218 4698 237 4781 864 
+C 4890 1709 4986 2458 5126 3379 
+C 5210 3910 5222 3936 5779 3981 
+L 5824 4154 
+z
+" transform="scale(0.015625)"/>
+       <path id="MinionPro-It-54" d="M 4064 4314 
+C 3949 4192 3898 4154 3725 4154 
+L 1318 4154 
+C 1146 4154 1075 4166 1011 4314 
+L 877 4314 
+C 800 3962 685 3546 570 3174 
+L 762 3168 
+C 877 3430 979 3629 1082 3750 
+C 1197 3891 1318 3936 1862 3936 
+L 2195 3936 
+L 1587 768 
+C 1491 256 1446 211 909 173 
+L 870 0 
+L 2611 0 
+L 2650 173 
+C 2074 211 2022 250 2118 768 
+L 2714 3936 
+L 3104 3936 
+C 3597 3936 3725 3898 3789 3744 
+C 3846 3610 3866 3418 3859 3174 
+L 4058 3187 
+C 4096 3533 4154 4026 4205 4314 
+L 4064 4314 
+z
+" transform="scale(0.015625)"/>
+       <path id="MinionPro-It-43" d="M 3725 1114 
+C 3366 557 2995 122 2349 122 
+C 1491 122 1043 851 1043 1766 
+C 1043 2950 1805 4032 2925 4032 
+C 3565 4032 3898 3808 3930 3046 
+L 4122 3066 
+C 4147 3373 4154 3718 4173 4045 
+C 3994 4115 3590 4250 3072 4250 
+C 1600 4250 422 3264 422 1747 
+C 422 550 1216 -96 2285 -96 
+C 2733 -96 3187 13 3386 58 
+C 3526 262 3789 774 3891 1024 
+L 3725 1114 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MinionPro-It-4c" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-4d" transform="translate(53.199997 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-54" transform="translate(114.519991 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-43" transform="translate(156.729982 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(203.425284 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(224.625281 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(253.025275 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(336.425269 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(419.825262 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_13">
+     <g id="line2d_60">
+      <path d="M 28.772969 129.138381 
+L 107.269082 129.138381 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_61"/>
+     <g id="text_23">
+      <!-- 0 -->
+      <g transform="translate(19.630313 133.043381) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_62">
+      <path d="M 28.772969 122.309101 
+L 107.269082 122.309101 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_63"/>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_64">
+      <path d="M 28.772969 115.479821 
+L 107.269082 115.479821 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_65"/>
+     <g id="text_24">
+      <!-- 6 -->
+      <g transform="translate(19.630313 119.384821) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_66">
+      <path d="M 28.772969 108.650541 
+L 107.269082 108.650541 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_67"/>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_68">
+      <path d="M 28.772969 101.821261 
+L 107.269082 101.821261 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_69"/>
+     <g id="text_25">
+      <!-- 12 -->
+      <g transform="translate(13.987656 105.726261) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-31"/>
+       <use xlink:href="#MyriadPro-Regular-32" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_70">
+      <path d="M 28.772969 94.991981 
+L 107.269082 94.991981 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_71"/>
+    </g>
+    <g id="text_26">
+     <!-- $F_{SEE}$ [N] -->
+     <g transform="translate(7.81 126.269648) rotate(-90) scale(0.11 -0.11)">
+      <use xlink:href="#MinionPro-It-46" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-53" transform="translate(52.699997 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(85.459988 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(124.589984 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(165.965292 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(187.165289 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-4e" transform="translate(215.565283 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(281.365271 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_72">
+    <path d="M 40.133078 128.752075 
+L 40.858274 128.648406 
+L 41.58347 128.523577 
+L 42.308667 128.37499 
+L 43.033863 128.20004 
+L 43.759059 127.996148 
+L 44.484255 127.760784 
+L 45.209451 127.491494 
+L 45.934647 127.185915 
+L 46.659843 126.841783 
+L 47.385039 126.456947 
+L 48.110235 126.029366 
+L 48.835432 125.560387 
+L 49.560628 125.069147 
+L 50.285824 124.560515 
+L 51.01102 124.036089 
+L 51.736216 123.497329 
+L 52.461412 122.945578 
+L 53.186608 122.382079 
+L 53.911804 121.807985 
+L 54.637 121.224374 
+L 55.362197 120.632257 
+L 56.087393 120.032586 
+L 56.812589 119.426261 
+L 57.537785 118.814139 
+L 58.262981 118.197034 
+L 58.988177 117.575725 
+L 59.713373 116.95096 
+L 60.438569 116.323457 
+L 61.163765 115.693909 
+L 61.888962 115.062987 
+L 62.614158 114.43134 
+L 63.339354 113.799599 
+L 64.06455 113.168378 
+L 64.789746 112.538278 
+L 65.514942 111.909885 
+L 66.240138 111.283772 
+L 66.965334 110.660504 
+L 67.69053 110.040634 
+L 68.415726 109.424709 
+L 69.140923 108.813264 
+L 69.866119 108.206832 
+L 70.591315 107.605938 
+L 71.316511 107.011102 
+L 72.041707 106.422841 
+L 72.766903 105.841666 
+L 73.492099 105.268087 
+L 74.217295 104.702612 
+L 74.942491 104.145747 
+L 75.667688 103.597997 
+L 76.392884 103.059867 
+L 77.11808 102.531862 
+L 77.843276 102.014489 
+L 78.568472 101.508255 
+L 79.293668 101.013672 
+L 80.018864 100.531252 
+L 80.74406 100.061512 
+L 81.469256 99.604976 
+L 82.194453 99.162168 
+L 82.919649 98.733624 
+L 83.644845 98.319881 
+L 84.370041 97.921488 
+L 85.095237 97.539001 
+L 85.820433 97.172986 
+L 86.545629 96.824019 
+L 87.270825 96.49269 
+L 87.996021 96.179601 
+L 88.721218 95.885368 
+L 89.446414 95.610625 
+L 90.17161 95.356022 
+L 90.896806 95.12223 
+L 91.622002 94.909941 
+L 92.347198 94.719873 
+L 93.072394 94.552767 
+L 93.79759 94.409397 
+L 94.522786 94.290568 
+L 95.247983 94.197121 
+L 95.973179 94.129939 
+L 96.698375 94.089946 
+L 97.423571 94.078122 
+L 98.148767 94.095499 
+L 98.873963 94.143173 
+L 99.599159 94.222314 
+L 100.324355 94.334172 
+L 101.049551 94.480088 
+L 101.774748 94.661512 
+L 102.499944 94.880015 
+L 103.22514 95.13731 
+L 103.950336 95.435277 
+L 104.675532 95.774571 
+L 105.400728 96.154926 
+L 106.125924 96.578453 
+L 106.85112 97.047559 
+L 107.576316 97.564959 
+L 108.301513 98.133752 
+L 109.026709 98.757508 
+L 109.751905 99.440392 
+L 110.477101 100.187333 
+L 111.202297 101.00426 
+L 111.927493 101.898443 
+" clip-path="url(#p5758a5fe62)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_73">
+    <g clip-path="url(#p5758a5fe62)">
+     <use xlink:href="#m7b42416cd6" x="86.342696" y="97.528757" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="75.872721" y="102.473909" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="60.16938" y="116.472478" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="54.929753" y="121.195867" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="91.57327" y="95.833876" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="65.395416" y="111.730045" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="81.09814" y="99.363569" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="70.627276" y="107.478016" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="96.799995" y="94.251025" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="49.687775" y="125.781929" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="102.032098" y="94.240334" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+    </g>
+   </g>
+   <g id="patch_9">
+    <path d="M 28.772969 129.138381 
+L 28.772969 89.300915 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 28.772969 129.138381 
+L 107.269082 129.138381 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_27">
+    <!-- C -->
+    <g transform="translate(19.227969 89.117087) scale(0.11 -0.11)">
+     <defs>
+      <path id="MyriadPro-Bold-43" d="M 3443 883 
+C 3245 800 2925 742 2624 742 
+C 1760 742 1248 1286 1248 2150 
+C 1248 3110 1850 3578 2618 3578 
+C 2970 3578 3245 3501 3437 3418 
+L 3642 4186 
+C 3469 4282 3085 4378 2579 4378 
+C 1274 4378 224 3565 224 2093 
+C 224 864 992 -70 2483 -70 
+C 3002 -70 3411 32 3584 115 
+L 3443 883 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#MyriadPro-Bold-43"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_11">
+    <path d="M 144.319874 129.138381 
+L 222.815987 129.138381 
+L 222.815987 89.300915 
+L 144.319874 89.300915 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_16">
+     <g id="line2d_74">
+      <path d="M 157.40256 129.138381 
+L 157.40256 89.300915 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_75"/>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_76">
+      <path d="M 170.485245 129.138381 
+L 170.485245 89.300915 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_77"/>
+     <g id="text_28">
+      <!-- -100 -->
+      <g transform="translate(160.332589 140.448381) scale(0.11 -0.11)">
+       <defs>
+        <path id="MyriadPro-Regular-2d" d="M 192 1933 
+L 192 1523 
+L 1773 1523 
+L 1773 1933 
+L 192 1933 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#MyriadPro-Regular-2d"/>
+       <use xlink:href="#MyriadPro-Regular-31" transform="translate(30.699997 0)"/>
+       <use xlink:href="#MyriadPro-Regular-30" transform="translate(81.999985 0)"/>
+       <use xlink:href="#MyriadPro-Regular-30" transform="translate(133.299973 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_78">
+      <path d="M 183.567931 129.138381 
+L 183.567931 89.300915 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_79"/>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_80">
+      <path d="M 196.650616 129.138381 
+L 196.650616 89.300915 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_81"/>
+     <g id="text_29">
+      <!-- 50 -->
+      <g transform="translate(191.00796 140.448381) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-35"/>
+       <use xlink:href="#MyriadPro-Regular-30" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_82">
+      <path d="M 209.733302 129.138381 
+L 209.733302 89.300915 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_83"/>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_84">
+      <path d="M 222.815987 129.138381 
+L 222.815987 89.300915 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_85"/>
+     <g id="text_30">
+      <!-- 0 -->
+      <g transform="translate(219.994659 140.448381) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_31">
+     <!-- $V_{CE}$ [mm/s] -->
+     <g transform="translate(157.552931 154.436037) scale(0.11 -0.11)">
+      <defs>
+       <path id="MinionPro-It-56" d="M 4794 4154 
+L 3392 4154 
+L 3347 3987 
+L 3539 3955 
+C 3821 3923 3866 3872 3699 3520 
+C 3418 2925 2733 1709 2208 768 
+L 2195 768 
+C 1997 1894 1741 3194 1683 3648 
+C 1651 3872 1677 3923 1926 3962 
+L 2099 3987 
+L 2144 4154 
+L 678 4154 
+L 634 3987 
+C 1030 3942 1094 3917 1190 3424 
+C 1338 2682 1619 1120 1811 -70 
+L 2003 -70 
+C 2739 1286 3667 2944 3949 3386 
+C 4275 3910 4339 3936 4749 3987 
+L 4794 4154 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-2f" d="M 422 -250 
+L 2214 4390 
+L 1773 4390 
+L -6 -250 
+L 422 -250 
+z
+" transform="scale(0.015625)"/>
+       <path id="MyriadPro-Regular-73" d="M 256 147 
+C 474 19 787 -70 1126 -70 
+C 1850 -70 2278 314 2278 864 
+C 2278 1325 1997 1594 1466 1792 
+C 1062 1952 883 2067 883 2323 
+C 883 2554 1062 2746 1395 2746 
+C 1683 2746 1907 2637 2029 2560 
+L 2163 2970 
+C 1997 3078 1722 3162 1408 3162 
+C 749 3162 339 2752 339 2253 
+C 339 1882 602 1581 1165 1376 
+C 1574 1222 1734 1082 1734 813 
+C 1734 550 1542 352 1139 352 
+C 858 352 563 467 390 570 
+L 256 147 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MinionPro-It-56" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-43" transform="translate(67.499985 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(111.949974 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(153.325282 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(174.525279 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(202.925273 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-6d" transform="translate(286.325267 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-2f" transform="translate(369.725261 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-73" transform="translate(404.025249 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(443.62524 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_19">
+     <g id="line2d_86">
+      <path d="M 144.319874 129.138381 
+L 222.815987 129.138381 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_87"/>
+     <g id="text_32">
+      <!-- 0 -->
+      <g transform="translate(135.177218 133.043381) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_88">
+      <path d="M 144.319874 122.309101 
+L 222.815987 122.309101 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_89"/>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_90">
+      <path d="M 144.319874 115.479821 
+L 222.815987 115.479821 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_91"/>
+     <g id="text_33">
+      <!-- 6 -->
+      <g transform="translate(135.177218 119.384821) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_92">
+      <path d="M 144.319874 108.650541 
+L 222.815987 108.650541 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_93"/>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_94">
+      <path d="M 144.319874 101.821261 
+L 222.815987 101.821261 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_95"/>
+     <g id="text_34">
+      <!-- 12 -->
+      <g transform="translate(129.534562 105.726261) scale(0.11 -0.11)">
+       <use xlink:href="#MyriadPro-Regular-31"/>
+       <use xlink:href="#MyriadPro-Regular-32" transform="translate(51.299988 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_96">
+      <path d="M 144.319874 94.991981 
+L 222.815987 94.991981 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #eeeeee"/>
+     </g>
+     <g id="line2d_97"/>
+    </g>
+    <g id="text_35">
+     <!-- $F_{CE}$ [N] -->
+     <g transform="translate(123.356905 124.784648) rotate(-90) scale(0.11 -0.11)">
+      <use xlink:href="#MinionPro-It-46" transform="translate(0 0.40625)"/>
+      <use xlink:href="#MinionPro-It-43" transform="translate(52.699997 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MinionPro-It-45" transform="translate(97.149986 -13.065625) scale(0.7)"/>
+      <use xlink:href="#MyriadPro-Regular-20" transform="translate(138.525294 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5b" transform="translate(159.725291 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-4e" transform="translate(188.125285 0.40625)"/>
+      <use xlink:href="#MyriadPro-Regular-5d" transform="translate(253.925273 0.40625)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_98">
+    <path d="M 158.44987 129.138381 
+L 160.351984 128.78172 
+L 162.187784 128.42506 
+L 163.96068 128.0684 
+L 165.673849 127.711739 
+L 167.330261 127.355079 
+L 168.932689 126.998418 
+L 170.48373 126.641758 
+L 171.985818 126.285098 
+L 173.441234 125.928437 
+L 174.852119 125.571777 
+L 176.220487 125.215117 
+L 177.548231 124.858456 
+L 178.837133 124.501796 
+L 180.088874 124.145135 
+L 181.305038 123.788475 
+L 182.48712 123.431815 
+L 183.636534 123.075154 
+L 184.754614 122.718494 
+L 185.842625 122.361834 
+L 186.901764 122.005173 
+L 187.933165 121.648513 
+L 188.937904 121.291852 
+L 189.917001 120.935192 
+L 190.871426 120.578532 
+L 191.802099 120.221871 
+L 192.709896 119.865211 
+L 193.595651 119.508551 
+L 194.460156 119.15189 
+L 195.304167 118.79523 
+L 196.128405 118.438569 
+L 196.933557 118.081909 
+L 197.720276 117.725249 
+L 198.48919 117.368588 
+L 199.240897 117.011928 
+L 199.975966 116.655268 
+L 200.694946 116.298607 
+L 201.398357 115.941947 
+L 202.086701 115.585286 
+L 202.760456 115.228626 
+L 203.420082 114.871966 
+L 204.066018 114.515305 
+L 204.698685 114.158645 
+L 205.31849 113.801985 
+L 205.925819 113.445324 
+L 206.521047 113.088664 
+L 207.10453 112.732003 
+L 207.676614 112.375343 
+L 208.237629 112.018683 
+L 208.787893 111.662022 
+L 209.327712 111.305362 
+L 209.857381 110.948702 
+L 210.377184 110.592041 
+L 210.887394 110.235381 
+L 211.388273 109.87872 
+L 211.880075 109.52206 
+L 212.363046 109.1654 
+L 212.837421 108.808739 
+L 213.303426 108.452079 
+L 213.761282 108.095419 
+L 214.211201 107.738758 
+L 214.653388 107.382098 
+L 215.088039 107.025437 
+L 215.515346 106.668777 
+L 215.935493 106.312117 
+L 216.34866 105.955456 
+L 216.755018 105.598796 
+L 217.154734 105.242136 
+L 217.547971 104.885475 
+L 217.934883 104.528815 
+L 218.315623 104.172154 
+L 218.690337 103.815494 
+L 219.059167 103.458834 
+L 219.422251 103.102173 
+L 219.779722 102.745513 
+L 220.131708 102.388853 
+L 220.478336 102.032192 
+L 220.819726 101.675532 
+L 221.155997 101.318871 
+L 221.487262 100.962211 
+L 221.813633 100.605551 
+L 222.135218 100.24889 
+L 222.45212 99.89223 
+L 222.764442 99.53557 
+L 222.947513 99.178909 
+L 223.112494 98.822249 
+L 223.285884 98.465588 
+L 223.468338 98.108928 
+L 223.660581 97.752268 
+L 223.863416 97.395607 
+L 224.077737 97.038947 
+L 224.304539 96.682287 
+L 224.544935 96.325626 
+L 224.800174 95.968966 
+L 225.071659 95.612305 
+L 225.360977 95.255645 
+L 225.669922 94.898985 
+L 226.000537 94.542324 
+L 226.355154 94.185664 
+L 226.637315 93.921731 
+" clip-path="url(#p1f1c3641e7)" style="fill: none; stroke: #000000; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_99">
+    <g clip-path="url(#p1f1c3641e7)">
+     <use xlink:href="#m7b42416cd6" x="216.426814" y="104.010589" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="209.860014" y="111.456135" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="194.86967" y="120.385827" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="200.11736" y="117.354958" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="188.237479" y="123.373934" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="213.189666" y="106.510347" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="206.485806" y="112.449868" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="202.804437" y="113.94929" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="167.100133" y="126.940936" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="197.257698" y="117.1645" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#m7b42416cd6" x="209.136104" y="111.221877" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+    </g>
+   </g>
+   <g id="patch_12">
+    <path d="M 144.319874 129.138381 
+L 144.319874 89.300915 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 144.319874 129.138381 
+L 222.815987 129.138381 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_36">
+    <!-- D -->
+    <g transform="translate(133.664562 89.117087) scale(0.11 -0.11)">
+     <defs>
+      <path id="MyriadPro-Bold-44" d="M 422 19 
+C 659 -13 1024 -45 1530 -45 
+C 2374 -45 3072 134 3526 512 
+C 3936 864 4237 1434 4237 2259 
+C 4237 3021 3955 3552 3507 3885 
+C 3098 4192 2560 4346 1734 4346 
+C 1248 4346 781 4307 422 4250 
+L 422 19 
+z
+M 1395 3558 
+C 1478 3578 1626 3597 1837 3597 
+C 2682 3597 3206 3123 3206 2227 
+C 3206 1197 2624 710 1734 717 
+C 1619 717 1478 717 1395 736 
+L 1395 3558 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#MyriadPro-Bold-44"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2851727a25">
+   <rect x="28.772969" y="7.993828" width="78.496113" height="39.837466"/>
+  </clipPath>
+  <clipPath id="pefbc902d0d">
+   <rect x="144.319874" y="7.993828" width="78.496113" height="39.837466"/>
+  </clipPath>
+  <clipPath id="p5758a5fe62">
+   <rect x="28.772969" y="89.300915" width="78.496113" height="39.837466"/>
+  </clipPath>
+  <clipPath id="p1f1c3641e7">
+   <rect x="144.319874" y="89.300915" width="78.496113" height="39.837466"/>
+  </clipPath>
+ </defs>
+</svg>

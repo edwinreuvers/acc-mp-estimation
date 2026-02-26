@@ -1,0 +1,106 @@
+project:
+  title: "Muscle property estimation"
+  type: website
+  render:
+    - "*.ipynb"
+    - "*.qmd"
+    - "*.md"
+    - "!figures/readme.md"
+    - "!tables/readme.md"
+
+website:
+  page-navigation: true
+  repo-url: https://github.com/edwinreuvers/acc-mp-estimation
+  repo-actions: [source]
+  page-footer: 
+    left: |
+      All content licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+      {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
+    background: primary
+
+  
+  navbar:
+    pinned: true
+    search: true
+    left:
+      - href: data/readme.md
+        text: "{{< iconify fa6-regular floppy-disk >}} Data"
+      - href: analysis/readme.md
+        text: "{{< iconify fa6-solid magnifying-glass-chart >}} Analysis"
+      - href: figures/all_figures.ipynb
+        text: "{{< iconify carbon qq-plot >}} Figures"
+      - href: tables/all_tables.ipynb
+        text: "{{< iconify carbon data-table >}} Tables"
+      - href: manuscript/preprint.ipynb
+        text: "{{< iconify carbon document >}} Manuscript"
+    tools:
+      - icon: bluesky
+        href: https://bsky.app/profile/edwinreuvers.bsky.social
+        aria-label: Bluesky - Edwin Reuvers
+      - icon: github
+        href: https://github.com/edwinreuvers
+        text: GitHub - Edwin Reuvers
+        
+  sidebar:
+    - id: data 
+      collapse-level: 2
+      contents:
+      - section: "Data"
+        href: data/readme.md
+        contents:
+        - text: "Simulated data"
+          href: data/make_sim_data.ipynb
+        - text: "*In situ* data"
+          href: data/insitu_data.ipynb    
+    - id: analysis
+      collapse-level: 2
+      contents:
+        - section: "Analysis"
+          href: analysis/readme.md
+          contents:
+            - text: "Parameter accuracy"
+              href: analysis/param-acc.ipynb
+            - text: "Sensitivity analysis"
+              href: analysis/sens-analysis.ipynb
+            - text: "Model prediction"
+              href: analysis/model-pred.ipynb
+
+format:
+  html:
+    theme: 
+      light: [flatly, _resources/custom.scss]
+    toc: true
+    toc-location: right
+    code-fold: true
+    code-tools: false
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+
+execute:
+  freeze: auto  # re-render only when source changes
+  echo: true
+  eval: false
+  output: true
+
+crossref:
+  custom:
+    - kind: float
+      key: suppfig
+      latex-env: suppfig
+      reference-prefix: Figure S
+      space-before-numbering: false
+      latex-list-of-description: Supplementary Figure
+    - kind: float
+      key: supptbl
+      latex-env: supptbl
+      reference-prefix: Table S
+      space-before-numbering: false
+      latex-list-of-description: Supplementary Table
+      caption-location: top
+
+
+editor: source
